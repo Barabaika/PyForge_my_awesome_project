@@ -1,7 +1,7 @@
 # PyForge_my_awesome_project
 
 ## Instalation:
-git_clone https://github.com/Barabaika/PyForge_my_awesome_project.git && cd PyForge_my_awesome_project && docker-compose up -d --build && docker-compose exec web python manage.py clear_db
+git clone https://github.com/Barabaika/PyForge_my_awesome_project.git && cd PyForge_my_awesome_project && docker-compose up -d --build && docker-compose exec web python manage.py clear_db
 
 ## Usage:
 ### CLI for adding compound:
